@@ -1,4 +1,4 @@
-# codetech - task2
+# Daily Expenses Tracker 
 
 # STUDENT GRADE TRACKER
 
