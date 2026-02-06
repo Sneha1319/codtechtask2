@@ -1,1 +1,1 @@
-# codtechtask2
+# Daily Expenses Tracker
